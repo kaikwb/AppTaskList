@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppTaskList</string>
+    <string name="add_task_btn_desc">Add a task to list</string>
+    <string name="dialog_title_new_task">New Task</string>
+    <string name="dialog_message_new_task">Create a new task</string>
+    <string name="dialog_accept_button_new_task">Create</string>
+    <string name="dialog_cancel_button_new_task">Cancel</string>
+    <string name="toast_message_add_task_cancel">Task not created</string>
+</resources>
